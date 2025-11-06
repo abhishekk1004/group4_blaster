@@ -14,5 +14,6 @@ public class Atm {
     }
     if (accessGranted) System.out.println("AccessGranted");
     else System.out.println("Locked");
+    scan.close();
   }
 }
