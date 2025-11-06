@@ -10,4 +10,4 @@
 - **Co-ordinator**: **prabisha khadka** [[LinkedIn]](https://www.linkedin.com/in/prabisha-khadka-22424b1bb/?originalSubdomain=np)
 
 
-**Note**: Gng dont push on the main branch directly make your own branch and push it to your own branch later merge. ChillOut <br>_#blasters_ <br>_#blasturlife_
+**Note**: Gng dont push on the main branch directly make your own branch and push it to your own branch later merge. ChillOut!! <br>_#blasters_ <br>_#blasturlife_
